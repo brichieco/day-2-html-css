@@ -1,0 +1,72 @@
+#header-style {
+  background-color: red;
+  padding: 10px;
+}
+#nav-style {
+  background-color: grey;
+  padding: 10px;
+}
+
+#nav-style ul {
+  background-color: yellow;
+  padding: 10px;
+}
+
+#nav-style ul li:first-child {
+  background-color: blue;
+  padding: 10px;
+}
+.cool-div {
+  background-color: violet;
+  padding: 10px;
+}
+.cool-div p {
+  background-color: grey;
+  padding: 10px;
+}
+
+#cool-h1 {
+  background-color: purple;
+}
+.form-style {
+  /* background-color: #98AFC7; */
+  width: 500px;
+  /* border-top: 2px solid green;
+  border-bottom: 2px solid green;
+  border-left: 3px dashed purple;
+  border-right: 3px dashed purple; */
+  border: 2px solid purple;
+  /* padding-top: 10px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 30px; */
+  padding: 10px;
+  margin: auto;
+  border-radius:8px;
+}
+.form-style label {
+  background-color:blue;
+}
+.cro-img img {
+  width: 300px;
+}
+
+.head-img{
+  background-image: url(../images/head.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 300px;
+  Border: 5px solid black;
+  border-radius: 10px;
+  box-sizing:border-box;
+
+}
+.pos-1{
+  position:absolute;
+  top:30px;
+}
+.zoooobeedoodaaaah {
+  text-decoration: overline;
+  font-style:italic;
+}
